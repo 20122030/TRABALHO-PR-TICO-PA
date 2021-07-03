@@ -1,6 +1,7 @@
 #include <iostream>
 #include "circuitoseletricos.h"
 using namespace std;
+#include <fstream>
 
 int main ()
 {
